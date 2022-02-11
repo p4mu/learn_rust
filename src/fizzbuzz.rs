@@ -17,6 +17,6 @@ fn fizzbuzz(){
         else{
             println!("{}", i);
         }
-        i=1;
+        i+=1;
     }
 }

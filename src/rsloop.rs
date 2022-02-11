@@ -13,5 +13,9 @@ pub fn run(){
     while count <= 100{
         println!{"{}", count}
         count+=1;
+    }   
+    // for range
+    for x in 0..100{
+        println!{"{}", x}
     }
 }
