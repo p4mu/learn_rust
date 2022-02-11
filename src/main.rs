@@ -1,4 +1,6 @@
 mod fizzbuzz;
+mod rsloop;
 fn main(){
-    fizzbuzz::run();
+    // fizzbuzz::run();
+    rsloop::run()
 }
