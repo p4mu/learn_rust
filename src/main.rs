@@ -7,4 +7,5 @@ fn main(){
     // rsloop::run();
     // functions::run();
     erathostenes::main();
+    println!("Hello, World!");
 }
