@@ -1,8 +1,10 @@
 // mod fizzbuzz;
 // mod rsloop;
-mod functions;
+// mod functions;
+mod erathostenes;
 fn main(){
     // fizzbuzz::run();
     // rsloop::run();
-    functions::run();
+    // functions::run();
+    erathostenes::main();
 }
